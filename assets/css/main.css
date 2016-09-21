@@ -120,6 +120,12 @@ a:after {
 	margin-top: 15px;
 }
 
+#headerwrap .logo  img{
+	max-width:230px;
+	width: auto;
+  	height: auto;
+}
+
 
 /* Footer Wrap */
 
@@ -144,8 +150,9 @@ a:after {
 }
 
 #f p {
-	font-size: 20px;
+	font-size: 24px;
 	color: #f2f2f2;
+	font-family: monospace;
 }
 
 #f img {
